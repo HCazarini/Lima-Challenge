@@ -28,6 +28,9 @@
   When working with Python I found myself enchanted by this programming language and by the amount of information we can find. I see knowing where and how to research becomes as important as knowing the concept behind what you intend to do.
 
   In summary, the project was extremely exciting to do and I intend to continue studying to improve the knowledge acquired.
+  
+## Results
+In this file has a .cvs doc where are the data get from the website and the image from the BigQuery data sent via Python/Pandas.
 
 
 
